@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.header{
+    /* min-width: 100vh;
+    width: 100%;
+    background-image: url("C:\Users\sharm\OneDrive\Desktop\shyam\backgroundimage.jpg");
+    background-position: center;
+    background-size: cover;
+    position: relative; */
+    background-color: aqua;
+}
+.name{
+    color: red;
+}
